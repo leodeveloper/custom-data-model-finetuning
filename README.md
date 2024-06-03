@@ -10,6 +10,7 @@ Similarly I pass "Twenty two" to model, the model will return "twenty three"
 
 ## Fine tuning example
 
-Now in the following image you can compare the respone of ChatGpt Model and My finetune ChatGpt Model, as user I pass the "1" and finetune model is returning the value "2"
+Now in the following image you can compare the respone of ChatGpt Model and My finetune ChatGpt Model, as user I pass the "1" and finetune model is returning the value "2" as assitant, similarly user pass the "-7" and finetune model is returning the value "-6" as assitant
+
 
 ![Application Screenshot](https://github.com/leodeveloper/custom-data-model-finetuning/blob/main/Custom-data%20fine%20tuning%20chat%20gpt.png)
